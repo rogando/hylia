@@ -6,9 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: This is a Heading
-- type: document
-  path: src/documents/*.md
-  label: This is a Document.
 - type: heading
   label: Content
 - type: directory
