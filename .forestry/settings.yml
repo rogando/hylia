@@ -7,10 +7,8 @@ sections:
 - type: heading
   label: This is a Heading
 - type: document
-  path: documents
+  path: src/documents/*.md
   label: This is a Document.
-  match: "**/*"
-  read_only: false
 - type: heading
   label: Content
 - type: directory
